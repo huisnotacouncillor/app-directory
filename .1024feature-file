@@ -1,0 +1,5 @@
+fileChangeLogs:
+  - .pnpm-store
+  - node_modules
+  - .gitignore
+  - app/page.tsx
