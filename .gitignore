@@ -75,3 +75,36 @@ yarn-error.log*
 *.db
 *.sql
 *.sql-journal
+
+# system files
+.git/
+.DS_Store
+Thumbs.db
+.nfs*
+
+# environment files
+.env*
+*.env* 
+
+# additional log files
+*.log
+*.tmp
+*.bak
+*.old
+*.pid
+*.seed
+*.pid.lock
+
+# compiled files
+*.o
+*.class
+*.exe
+
+# backup files
+*~
+*.swp
+*.swo
+
+# IDE specific files
+.vscode/
+.idea/
