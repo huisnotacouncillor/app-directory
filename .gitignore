@@ -40,7 +40,6 @@ yarn-error.log*
 .pnpm-debug.log*
 *.tsbuildinfo
 
-
 # Python
 __pycache__/
 *.py[cod]
@@ -59,3 +58,7 @@ __pycache__/
 *.db
 *.sql
 *.sql-journal
+
+# Custom Configuration Files
+!.1024
+.1024*
