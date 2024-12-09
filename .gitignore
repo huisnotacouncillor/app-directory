@@ -60,5 +60,6 @@ __pycache__/
 *.sql-journal
 
 # Custom Configuration Files
-!.1024
 .1024*
+!.1024
+.pnpm-store
