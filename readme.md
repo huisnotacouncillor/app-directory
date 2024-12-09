@@ -1,6 +1,7 @@
 # Next.js App Router Playground
 
 Next.js recently introduced the App Router with support for:
+
 - **Layouts:** Easily share UI while preserving state and avoiding re-renders.
 - **Server Components:** Making server-first the default for the most dynamic applications.
 - **Streaming:** Display instant loading states and stream in updates.
@@ -11,7 +12,6 @@ The App Router can coexist with the existing `pages` directory for incrementa
 ## Running Locally
 
 1. Install dependencies:
-
 ```sh
 pnpm install
 ```
