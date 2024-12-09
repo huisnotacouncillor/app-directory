@@ -11,7 +11,6 @@ The App Router can coexist with the existing `pages` directory for incrementa
 
 ## Running Locally
 
-
 1. Install dependencies:
 
 ```sh
