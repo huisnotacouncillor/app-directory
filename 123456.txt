@@ -1,5 +1,0 @@
-Hello, World!
-
-Date: October 5, 2023
-
-This is the fourth test file created during the initial setup of the development environment for the Next.js project in Clacky. It serves as an additional test file to verify file creation functionality.
