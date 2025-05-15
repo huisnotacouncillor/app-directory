@@ -9,6 +9,8 @@ x
 
 wq
 e
+
+d
 wq
 e
 wq
